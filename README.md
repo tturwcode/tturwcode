@@ -13,7 +13,8 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,lovable" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <img src="https://lovable.dev/favicon.ico" width="48" height="48" alt="Lovable" />
 </p>
 
 ---
