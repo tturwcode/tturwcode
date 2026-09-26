@@ -29,10 +29,13 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
   <img src="https://lovable.dev/favicon.ico" width="50" height="50" alt="Lovable"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" width="50" height="50" alt="GitHub Copilot"/>
-  <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="50" height="50" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50" alt="Gemini"/>
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="50" height="50" alt="ChatGPT"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/github-copilot.svg" width="50" height="50" alt="GitHub Copilot"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="50" height="50" alt="Claude"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="50" height="50" alt="Gemini"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/chatgpt.svg" width="50" height="50" alt="ChatGPT"/>
 </p>
 
 ---
