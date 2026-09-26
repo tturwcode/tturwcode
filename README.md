@@ -17,7 +17,12 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="50"
+    height="50"
+    alt="Python"
+  />
 </p>
 
 ---
@@ -25,17 +30,33 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 ## 🔧 Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
-  <img src="https://lovable.dev/favicon.ico" width="50" height="50" alt="Lovable"/>
-</p>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    width="50"
+    height="50"
+    alt="GitHub"
+  />
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/github-copilot.svg" width="50" height="50" alt="GitHub Copilot"/>
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="50" height="50" alt="Claude"/>
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="50" height="50" alt="Gemini"/>
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/chatgpt.svg" width="50" height="50" alt="ChatGPT"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="50"
+    height="50"
+    alt="Git"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    width="50"
+    height="50"
+    alt="Visual Studio Code"
+  />
+
+  <img
+    src="https://lovable.dev/favicon.ico"
+    width="50"
+    height="50"
+    alt="Lovable"
+  />
 </p>
 
 ---
