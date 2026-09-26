@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
@@ -18,13 +18,13 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </p>
 
-## 🔧 Ferramentas
+## Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
@@ -34,7 +34,7 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 Atualmente desenvolvo projetos para praticar programação e aplicar os conhecimentos adquiridos durante meus estudos.
 
@@ -43,7 +43,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 🔥 Sequência de contribuições
+## contribuições
 
 <p align="center">
   <img
@@ -55,7 +55,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <p align="center">
   <img
@@ -66,7 +66,3 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 </p>
 
 ---
-
-<p align="center">
-  <i>Aprendendo • Criando • Evoluindo</i>
-</p>
