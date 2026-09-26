@@ -48,13 +48,25 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&hide_border=true&title_color=d946ef&text_color=c084fc&icon_color=d946ef&bg_color=0d1117"
     height="180"
     alt="Estatísticas do GitHub"
   />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&hide_border=true&title_color=d946ef&text_color=c084fc&icon_color=d946ef&bg_color=0d1117"
+    height="180"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&hide_border=true&background=0D1117&ring=D946EF&fire=D946EF&currStreakLabel=D946EF&sideLabels=C084FC&dates=8B5CF6&currStreakNum=D946EF&sideNums=C084FC"
     height="180"
     alt="Sequência de contribuições"
   />
