@@ -2,7 +2,7 @@
 
 Sou um estudante de **Python 🐍** Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
-Meu principal foco é **Python** utilizando o GitHub para organizar meus projetos e acompanhar minha evolução.
+Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha evolução.
 
 ---
 
