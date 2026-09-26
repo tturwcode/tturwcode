@@ -1,12 +1,16 @@
 <h1 align="center">Olá! 👋</h1>
 
 <p align="center">
+  <strong>Desenvolvedor em formação</strong>
+</p>
+
+<p align="center">
   Estudando programação, desenvolvendo projetos e evoluindo através da prática.
 </p>
 
 ---
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
 Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
@@ -14,13 +18,15 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </p>
 
-## Ferramentas
+---
+
+## 🔧 Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
@@ -30,16 +36,33 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## Projetos
+## 📂 Projetos
 
 Atualmente desenvolvo projetos para praticar programação e aplicar os conhecimentos adquiridos durante meus estudos.
 
 🔗 **[Ver meus projetos](https://github.com/tturwcode?tab=repositories)**
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&locale=pt-br&hide_border=true"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&theme=radical&locale=pt-br&hide_border=true"
+    height="180"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
 
 ---
 
-## contribuições
+## 🔥 Sequência de contribuições
 
 <p align="center">
   <img
@@ -51,7 +74,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## Contribuições
+## 🐍 Contribuições
 
 <p align="center">
   <img
@@ -62,3 +85,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 </p>
 
 ---
+
+<p align="center">
+  <i>Aprendendo • Criando • Evoluindo</i>
+</p>
