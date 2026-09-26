@@ -6,7 +6,7 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
@@ -14,7 +14,7 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ---
 
-## 🔧 Ferramentas
+## Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
@@ -25,7 +25,7 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 Atualmente desenvolvo projetos para praticar programação e aplicar os conhecimentos adquiridos durante meus estudos.
 
@@ -33,7 +33,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 🔥 Contribuições
+## Contribuições
 
 <p align="center">
   <img
