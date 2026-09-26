@@ -30,6 +30,7 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="Visual Studio Code"/>
   <img src="https://lovable.dev/favicon.ico" width="45" height="45" alt="Lovable"/>
 </p>
