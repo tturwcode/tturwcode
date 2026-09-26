@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Estudando programação, desenvolvendo projetos e evoluindo através da prática.
+  Estudando programação, desenvolvendo projetos e evoluindo.
 </p>
 
 ---
