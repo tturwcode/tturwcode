@@ -1,8 +1,8 @@
 <h1 align="center">Olá! 👋</h1>
 
-Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
+Sou um estudante de **Python 🐍** Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
-Meu principal foco é **Python 🐍** utilizando o GitHub para organizar meus projetos e acompanhar minha evolução.
+Meu principal foco é **Python** utilizando o GitHub para organizar meus projetos e acompanhar minha evolução.
 
 ---
 
