@@ -1,3 +1,9 @@
+<h1 align="center">Olá! 👋</h1>
 
-
-<img src="https://raw.githubusercontent.com/tturwcode/tturwcode/output/github-snake.svg" alt="GitHub Contribution Snake">
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/tturwcode/tturwcode/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
