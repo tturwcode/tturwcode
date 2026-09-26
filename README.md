@@ -48,15 +48,14 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&locale=pt-br&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&hide_border=true"
     height="180"
     alt="Estatísticas do GitHub"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&theme=radical&locale=pt-br&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&theme=radical&hide_border=true"
     height="180"
-    alt="Linguagens mais utilizadas"
+    alt="Sequência de contribuições"
   />
 </p>
 
@@ -83,7 +82,3 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 </p>
 
 ---
-
-<p align="center">
-  <i>Aprendendo • Criando • Evoluindo</i>
-</p>
