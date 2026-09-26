@@ -1,13 +1,5 @@
 <h1 align="center">Olá! 👋</h1>
 
-<p align="center">
-  Estudando programação, desenvolvendo projetos e evoluindo.
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-
 Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
 Meu principal foco é **Python 🐍** utilizando o GitHub para organizar meus projetos e acompanhar minha evolução.
