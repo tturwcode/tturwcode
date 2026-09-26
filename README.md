@@ -1,8 +1,5 @@
 <h1 align="center">Olá! 👋</h1>
 
-<p align="center">
-  <strong>Desenvolvedor em formação</strong>
-</p>
 
 <p align="center">
   Estudando programação, desenvolvendo projetos e evoluindo através da prática.
@@ -40,7 +37,7 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 Atualmente desenvolvo projetos para praticar programação e aplicar os conhecimentos adquiridos durante meus estudos.
 
-🔗 **[Ver meus projetos](https://github.com/tturwcode?tab=repositories)**
+🔗 **[Ver meus projetos](https://github.com/tturwcode/estudos-python)**
 
 ---
 
