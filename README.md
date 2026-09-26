@@ -40,23 +40,6 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 🔗 **[Ver meus projetos](https://github.com/tturwcode?tab=repositories)**
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&locale=pt-br&hide_border=true"
-    height="180"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&theme=radical&locale=pt-br&hide_border=true"
-    height="180"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
 
 ---
 
