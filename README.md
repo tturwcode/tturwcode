@@ -1,4 +1,4 @@
-<h1 align=>Olá! Eu sou o Arthur Medeiros 👋</h1>
+<h1 align=>Olá 👋, Eu sou Arthur Medeiros</h1>
 
 Sou um estudante de **Python 🐍** Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
