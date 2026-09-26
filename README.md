@@ -1,6 +1,5 @@
 <h1 align="center">Olá! 👋</h1>
 
-
 <p align="center">
   Estudando programação, desenvolvendo projetos e evoluindo através da prática.
 </p>
@@ -17,19 +16,24 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
 </p>
 
 ---
 
 ## 🔧 Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="Visual Studio Code"/>
-  <img src="https://lovable.dev/favicon.ico" width="45" height="45" alt="Lovable"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode" height="50" alt="Git e Visual Studio Code"/>
+</p>
+
+<p align="center">
+  <img src="https://lovable.dev/favicon.ico" width="50" height="50" alt="Lovable"/>
 </p>
 
 ---
@@ -42,6 +46,23 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&hide_border=true&title_color=d946ef&text_color=c084fc&icon_color=d946ef&bg_color=0d1117"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&hide_border=true&title_color=d946ef&text_color=c084fc&icon_color=d946ef&bg_color=0d1117"
+    height="180"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
 
 ## 🔥 Contribuições
 
