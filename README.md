@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋</h1>
 
 <p align="center">
-  Estudando programação, desenvolvendo projetos e evoluindo através da prática.
+  Estudando programação, desenvolvendo projetos e evoluindo.
 </p>
 
 ---
@@ -41,25 +41,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&hide_border=true&title_color=d946ef&text_color=c084fc&icon_color=d946ef&bg_color=0d1117"
-    height="180"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&hide_border=true&title_color=d946ef&text_color=c084fc&icon_color=d946ef&bg_color=0d1117"
-    height="180"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
-## 🔥 Sequência de contribuições
+## 🔥 Contribuições
 
 <p align="center">
   <img
@@ -71,8 +53,6 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 🐍 Animação das contribuições
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/tturwcode/tturwcode/output/github-snake-dark.svg"
@@ -82,7 +62,3 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 </p>
 
 ---
-
-<p align="center">
-  <i>Aprendendo • Criando • Evoluindo</i>
-</p>
