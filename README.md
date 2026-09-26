@@ -62,7 +62,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 🔥 Sequência de contribuições
+## Contribuições
 
 <p align="center">
   <img
@@ -73,8 +73,6 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 </p>
 
 ---
-
-## 🐍 Contribuições
 
 <p align="center">
   <img
