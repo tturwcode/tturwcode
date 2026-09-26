@@ -1,10 +1,6 @@
 <h1 align="center">Olá! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor em formação</strong>
-</p>
-
-<p align="center">
   Estudando programação, desenvolvendo projetos e evoluindo através da prática.
 </p>
 
