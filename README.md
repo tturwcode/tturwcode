@@ -16,24 +16,19 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ## 🛠️ Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </p>
 
 ---
 
 ## 🔧 Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode" height="50" alt="Git e Visual Studio Code"/>
-</p>
-
-<p align="center">
-  <img src="https://lovable.dev/favicon.ico" width="50" height="50" alt="Lovable"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="Visual Studio Code"/>
+  <img src="https://lovable.dev/favicon.ico" width="45" height="45" alt="Lovable"/>
 </p>
 
 ---
@@ -64,7 +59,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
-## 🔥 Contribuições
+## 🔥 Sequência de contribuições
 
 <p align="center">
   <img
@@ -73,6 +68,10 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
     alt="Sequência de contribuições"
   />
 </p>
+
+---
+
+## 🐍 Animação das contribuições
 
 <p align="center">
   <img
@@ -84,3 +83,6 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
+<p align="center">
+  <i>Aprendendo • Criando • Evoluindo</i>
+</p>
