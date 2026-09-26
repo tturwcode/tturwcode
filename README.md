@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
@@ -18,7 +18,7 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
@@ -26,7 +26,7 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## 🔧 Ferramentas
+## Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
@@ -36,28 +36,11 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 Atualmente desenvolvo projetos para praticar programação e aplicar os conhecimentos adquiridos durante meus estudos.
 
 🔗 **[Ver meus projetos](https://github.com/tturwcode?tab=repositories)**
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&theme=radical&hide_border=true"
-    height="180"
-    alt="Sequência de contribuições"
-  />
-</p>
 
 ---
 
