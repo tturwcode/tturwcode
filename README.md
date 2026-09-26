@@ -17,12 +17,7 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    width="50"
-    height="50"
-    alt="Python"
-  />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </p>
 
 ---
@@ -30,33 +25,10 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
 ## 🔧 Ferramentas
 
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    width="50"
-    height="50"
-    alt="GitHub"
-  />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    width="50"
-    height="50"
-    alt="Git"
-  />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    width="50"
-    height="50"
-    alt="Visual Studio Code"
-  />
-
-  <img
-    src="https://lovable.dev/favicon.ico"
-    width="50"
-    height="50"
-    alt="Lovable"
-  />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="Visual Studio Code"/>
+  <img src="https://lovable.dev/favicon.ico" width="45" height="45" alt="Lovable"/>
 </p>
 
 ---
