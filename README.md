@@ -41,18 +41,19 @@ Atualmente estou desenvolvendo projetos para praticar programação e aplicar os
 🔗 **[Meus projetos no GitHub](https://github.com/tturwcode)**
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&locale=pt-br" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="180" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9"
+    height="180"
+  />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tturwcode&theme=dark&hide_border=true&locale=pt_BR" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=c9d1d9"
+    height="180"
+  />
 </p>
-
 ---
 
 ## 🐍 Contribuições
