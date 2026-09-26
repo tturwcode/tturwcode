@@ -44,15 +44,9 @@ Atualmente estou desenvolvendo projetos para praticar programação e aplicar os
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=radical&locale=pt-br&hide_border=true" height="180" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=c9d1d9"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tturwcode&layout=compact&theme=radical&locale=pt-br&hide_border=true" height="180" />
 </p>
 ---
 
