@@ -29,6 +29,10 @@ Meu principal foco é **Python**, utilizando o GitHub para organizar meus projet
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="Visual Studio Code"/>
   <img src="https://lovable.dev/favicon.ico" width="45" height="45" alt="Lovable"/>
+  <img src="https://skillicons.dev/icons?i=githubcopilot" height="45" alt="GitHub Copilot"/>
+  <img src="https://cdn.simpleicons.org/anthropic" width="45" height="45" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="ChatGPT"/>
 </p>
 
 ---
@@ -63,7 +67,7 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&hide_border=true&background=0D1117&ring=D946EF&fire=D946EF&currStreakLabel=D946EF&sideLabels=C084FC&dates=8B5CF6&currStreakNum=D946EF&sideNums=C084FC"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&locale=pt_BR&hide_border=true&background=0D1117&ring=D946EF&fire=D946EF&currStreakLabel=D946EF&sideLabels=C084FC&dates=8B5CF6&currStreakNum=D946EF&sideNums=C084FC"
     height="180"
     alt="Sequência de contribuições"
   />
