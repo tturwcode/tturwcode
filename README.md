@@ -21,10 +21,14 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ---
 
-## Ferramentas
+### Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,notion" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" alt="Notion" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/lovable/FF4F8B" alt="Lovable" width="50" height="50"/>
 </p>
 
 ---
