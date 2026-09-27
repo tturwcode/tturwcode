@@ -24,12 +24,17 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 ### Ferramentas
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF" alt="Notion" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/lovable/FF4F8B" alt="Lovable" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git">
+  <img src="https://skillicons.dev/icons?i=notion" width="60" height="60" alt="Notion">
+  <img src="https://cdn.simpleicons.org/lovable/FFFFFF" 
+       width="60" height="60" 
+       alt="Lovable"
+       style="background:#202637; border-radius:14px; padding:10px;">
 </p>
+
+<hr>
 
 ---
 
