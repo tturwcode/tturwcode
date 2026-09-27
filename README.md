@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1+%F0%9F%91%8B;Arthur+Medeiros" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1565C0,100:2196F3&height=210&section=header&text=Ol%C3%A1%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Arthur+Medeiros" />
 </p>
 
 <p align="center">
