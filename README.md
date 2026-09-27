@@ -55,8 +55,6 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 
 
-
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/tturwcode/tturwcode/output/github-snake-dark.svg"
