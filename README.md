@@ -15,8 +15,8 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ## Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,notion" />
 </p>
 
 ---
