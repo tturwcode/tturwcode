@@ -1,4 +1,10 @@
-<h1 align=>Olá 👋, Eu sou Arthur Medeiros</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:8A2BE2&height=200&section=header&text=ARTHUR%20MEDEIROS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=Estudante+de+Programa%C3%A7%C3%A3o+%E2%80%A2+Python;Explorando+Python+e+tecnologia;Transformando+aprendizado+em+projetos" />
+</p>
 
 Sou um estudante de **Python 🐍** Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
