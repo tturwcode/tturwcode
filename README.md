@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=2196F3&center=true&vCenter=true&width=500&lines=Estudante+de+Programa%C3%A7%C3%A3o" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=2196F3&center=true&vCenter=true&width=650&lines=Estudante+de+Programa%C3%A7%C3%A3o;Aprendendo+Python;Criando+meus+primeiros+projetos" />
 </p>
 
 
