@@ -45,7 +45,6 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 </div>
 
----
 
 <p align="center">
   <img
