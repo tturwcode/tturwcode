@@ -54,4 +54,3 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
   />
 </p>
 
----
