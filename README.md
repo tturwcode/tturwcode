@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1565C0,100:2196F3&height=210&section=header&text=ARTHUR%20MEDEIROS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1565C0,100:2196F3&height=210&section=header&text=Olá%2C%20eu%20sou%20Arthur%20Medeiros&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
