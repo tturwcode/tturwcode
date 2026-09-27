@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=2196F3&center=true&vCenter=true&width=650&lines=Estudante+de+Programa%C3%A7%C3%A3o+%E2%80%A2+Python;Explorando+Python+e+tecnologia;Transformando+aprendizado+em+projetos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=2196F3&center=true&vCenter=true&width=500&lines=Estudante+de+Programa%C3%A7%C3%A3o" />
 </p>
+
 
 Sou um estudante de **Python 🐍** Atualmente estou focado em aprender programação e transformar meus estudos em projetos práticos.
 
