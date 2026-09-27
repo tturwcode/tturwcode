@@ -15,16 +15,20 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ## Tecnologias
 
+<h2>💻 Tecnologias</h2>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,notion" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
 
 ## Ferramentas
 
+<h2>🛠️ Ferramentas</h2>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,notion" />
 </p>
 
 ---
