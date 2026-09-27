@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:2196F3&height=200&section=header&text=ARTHUR%20MEDEIROS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1565C0,100:2196F3&height=210&section=header&text=ARTHUR%20MEDEIROS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=2196F3&center=true&vCenter=true&width=650&lines=Estudante+de+Programa%C3%A7%C3%A3o;Aprendendo+Python;Criando+meus+primeiros+projetos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1400&color=64B5F6&center=true&vCenter=true&width=700&lines=Estudante+de+Programa%C3%A7%C3%A3o;Desenvolvendo+habilidades+em+Python;Criando+projetos+para+praticar+e+aprender" />
 </p>
 
 
