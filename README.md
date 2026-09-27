@@ -47,6 +47,12 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
+<h2>📊 Minhas estatísticas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tturwcode&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=8A2BE2&text_color=FFFFFF" />
+</p>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/tturwcode/tturwcode/output/github-snake-dark.svg"
