@@ -39,15 +39,13 @@ Atualmente desenvolvo projetos para praticar programação e aplicar os conhecim
 
 ---
 
+<div align="center">
+
 ## Contribuições
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&locale=pt_BR&hide_border=true&background=0D1117&ring=D946EF&fire=D946EF&currStreakLabel=D946EF&sideLabels=C084FC&dates=8B5CF6&currStreakNum=D946EF&sideNums=C084FC"
-    height="180"
-    alt="Sequência de contribuições"
-  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tturwcode&theme=transparent&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&sideNums=2196F3&sideLabels=2196F3&dates=2196F3" />
+
+</div>
 
 ---
 
