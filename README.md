@@ -28,7 +28,14 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://lovable.dev/favicon.ico" width="48" height="48" />
+
+  <img
+    src="https://lovable.dev/favicon.ico"
+    width="48"
+    height="48"
+    alt="Lovable"
+    style="background:#1e1e2e; border-radius:8px; padding:6px; box-sizing:border-box;"
+  />
 </p>
 
 ---
