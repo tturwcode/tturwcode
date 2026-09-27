@@ -41,7 +41,7 @@ Criei esse perfil no **GitHub** para organizar meus projetos e acompanhar minha 
 
 ## Projetos
 
-Atualmente desenvolvo projetos para praticar programação e aplicar os conhecimentos adquiridos durante meus estudos.
+Atualmente desenvolvo **Projetos** para praticar **programação** e aplicar os conhecimentos adquiridos durante meus estudos.
 
 🔗 **[Ver meus projetos](https://github.com/tturwcode/estudos-python)**
 
